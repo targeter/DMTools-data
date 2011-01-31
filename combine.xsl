@@ -4,6 +4,7 @@
     <xsl:param name="name" select="'Gamma World'"/>
     <xsl:param name="partyFile" select="'/party.xml'"/>
     <xsl:param name="monstersFile" select="'/monsters.xml'"/>
+    <xsl:param name="includeMonstersDB" select="yes"/>
 
     <!-- Read the external documents -->
     <xsl:variable name="monsters" select="document(concat($name, $monstersFile))"/>
@@ -21,10 +22,12 @@
     <xsl:template match="/DMToolData">
         <xsl:copy>
             <xsl:apply-templates/>
-            <monsters>
-                <xsl:copy-of select="$monsters/DMToolData/monsters/MonsterEntry"/>
-                <xsl:copy-of select="$party/DMToolData/monsters/MonsterEntry"/>
-            </monsters>
+            <xsl:if test="$includeMonstersDB = 'yes'">
+                <monsters>
+                    <xsl:copy-of select="$monsters/DMToolData/monsters/MonsterEntry"/>
+                    <xsl:copy-of select="$party/DMToolData/monsters/MonsterEntry"/>
+                </monsters>
+            </xsl:if>
         </xsl:copy>
     </xsl:template>
 
