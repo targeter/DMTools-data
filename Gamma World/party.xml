@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DMToolData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<!-- The Lunatech Party! -->
+	<monsters>
+		<MonsterEntry sync="true" Name="Arou" player="true" ac="12" fort="11" reflex="14" will="16" hp="22" init="2" hitMod="0" acMod="0" ongoing="0" states="0">
+			<Note>Electrokinetic Hawkoid</Note>
+		</MonsterEntry>
+		<MonsterEntry sync="true" Name="Guhvi" player="true" ac="16" fort="12" reflex="20" will="12" hp="21" init="6" hitMod="0" acMod="0" ongoing="0" states="0">
+			<Note>Felinoid Speedster</Note>
+		</MonsterEntry>
+		<MonsterEntry sync="true" Name="Kaiter" player="true" ac="15" fort="15" reflex="16" will="12" hp="22" init="-1" hitMod="0" acMod="0" ongoing="0" states="0">
+			<Note>Yeti Doppelganger</Note>
+		</MonsterEntry>
+		<MonsterEntry sync="true" Name="Okkah" player="true" ac="14" fort="17" reflex="14" will="14" hp="30" init="4" hitMod="0" acMod="0" ongoing="0" states="0">
+			<Note>Plant Pyrokinetic</Note>
+		</MonsterEntry>
+		<MonsterEntry sync="true" Name="UT-0" player="true" ac="14" fort="13" reflex="16" will="15" hp="19" init="11" hitMod="0" acMod="0" ongoing="0" states="0">
+			<Note>Hypercognitive Android</Note>
+		</MonsterEntry>
+	</monsters>
+</DMToolData>
