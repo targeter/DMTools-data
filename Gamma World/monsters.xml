@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DMToolData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <monsters>
+    <MonsterEntry sync="true" Name="Beserk Android" player="false" ac="18" fort="19" reflex="17" will="18" hp="86" init="7" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Androids are thinking machines that bear some physical resemblance to the Ancients. Most are factory, office, and military machines that have developed artificial intelligence (AI). A few are apparently the creations of a cross-time race of idiot savants who thought it would be fun to engineer their own replacements. Androids litter the ruins of Gamma Terra in various states of repair, form, ability-and homicidal tendency.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Green Darter Arn" player="false" ac="16" fort="13" reflex="15" will="13" hp="35" init="7" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Voracious scavengers and hunters, these overgrown insects haunt marshes and forests, preying on anything they can catch. Green darters attack by knocking their prey down; firebellies emit bursts of intense heat. All arns are strong fliers and can carry Small riders if caught and domesticated while young.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Firebelly Arn" player="false" ac="19" fort="16" reflex="18" will="16" hp="60" init="9" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Voracious scavengers and hunters, these overgrown insects haunt marshes and forests, preying on anything they can catch. Green darters attack by knocking their prey down; firebellies emit bursts of intense heat. All arns are strong fliers and can carry Small riders if caught and domesticated while young.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Badder Steading Guard" player="false" ac="15" fort="13" reflex="14" will="13" hp="22" init="3" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Badders are cruel and destructive, raiding and pillaging nearby settlements. Their steadings are large, subterranean warrens beneath sturdy stone towers. Badders use savage or medieval technology, and leaders might carry firearms.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Badder Slave Driver" player="false" ac="17" fort="14" reflex="17" will="15" hp="45" init="3" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Badders are cruel and destructive, raiding and pillaging nearby settlements. Their steadings are large, subterranean warrens beneath sturdy stone towers. Badders use savage or medieval technology, and leaders might carry firearms.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Black Blaash" player="false" ac="17" fort="16" reflex="17" will="14" hp="40" init="5" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Fearless and carnivorous, these enormous mutated gypsy moths bring down prey with radiation , then hover over the corpses to Feed. Black blaashes target victims with precise beams of radiation.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Blight" player="false" ac="18" fort="16" reflex="17" will="16" hp="42" init="10" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Armed with the ability to bend light and become invisible, blights are predatory, tentacled worms that hunt on the wing. Blight hunters descend unseen on isolated victims and carry them off screaming into the sky. Venomwings rely on poison to kill their prey, then retreat to reestablish their invisibility.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Blood Bird" player="false" ac="15" fort="12" reflex="14" will="11" hp="24" init="7" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>These feathered predators' beautiful scarlet plumage belies their vicious nature. More than one admirer has been drawn to a blood bird's cheerful song and stunning red crest and tail feathers, only to fall to its radioactive bite. Flocks of ravening blood birds descend on prey and rend their victims to bits.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Blood Bird Flock" player="false" ac="19" fort="15" reflex="17" will="14" hp="52" init="7" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>These feathered predators' beautiful scarlet plumage belies their vicious nature. More than one admirer has been drawn to a blood bird's cheerful song and stunning red crest and tail feathers, only to fall to its radioactive bite. Flocks of ravening blood birds descend on prey and rend their victims to bits.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Dabber Sharpshooter" player="false" ac="16" fort="13" reflex="14" will="13" hp="32" init="4" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Greedy, curious, and somewhat cowardly, dabbers are highly intelligent, mutated raccoons that have a reputation for thievery. They prefer to avoid direct combat, using traps or ruses to lead marks away from their valuables and then pillaging the abandoned camps or caravans. Dabbers gather in small bands that often hire out as scouts, marauders, and "treasure finders."</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Fen Eel" player="false" ac="18" fort="16" reflex="18" will="14" hp="51" init="8" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Fens are irritated by the mere sight of "drylanders" and would much rather stick them with pointy things than talk. Literally slippery customers, fen eels use electric jolts to incapacitate enemies.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Gren Headhunter" player="false" ac="18" fort="14" reflex="16" will="14" hp="36" init="8" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Grens are a humanlike race from a nontechnological worldline. Grens hate advanced technology and are suspicious of those who carry Ancient artifacts. Gren tribes subsist in wooded areas, jealously defending their territory.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Gren Archer" player="false" ac="19" fort="17" reflex="18" will="17" hp="51" init="7" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Grens are a humanlike race from a nontechnological worldline. Grens hate advanced technology and are suspicious of those who carry Ancient artifacts. Gren tribes subsist in wooded areas, jealously defending their territory.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Hoop Warrior" player="false" ac="17" fort="16" reflex="15" will="14" hp="43" init="5" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Hoops are human-sized mutated rabbits that believe they are destined to rule Gamma Terra as a master race. They are fierce warriors that roam the world in bloodthirsty war bands, subjugating all weaker beings and plundering ruins for useful (and dangerous) technology. Some hoops have the unusual ability to transmute nonliving materials into an inert, rubbery substance with a mere touch.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Hoop Warchief" player="false" ac="19" fort="18" reflex="17" will="17" hp="60" init="4" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Hoops are human-sized mutated rabbits that believe they are destined to rule Gamma Terra as a master race. They are fierce warriors that roam the world in bloodthirsty war bands, subjugating all weaker beings and plundering ruins for useful (and dangerous) technology. Some hoops have the unusual ability to transmute nonliving materials into an inert, rubbery substance with a mere touch.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Horl Choo Stinger" player="false" ac="15" fort="12" reflex="15" will="13" hp="22" init="4" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>The spearlike quills of a horl choo mean agonizing death. up close, They jab and inject acidic venom. Some of these plants hurl their slinging needles from a distance, while others roll over their prey, leaving acidic quills that fester in their victims' flesh.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Horl Choo Tumbler" player="false" ac="17" fort="16" reflex="17" will="14" hp="48" init="7" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>The spearlike quills of a horl choo mean agonizing death. up close, They jab and inject acidic venom. Some of these plants hurl their slinging needles from a distance, while others roll over their prey, leaving acidic quills that fester in their victims' flesh.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Green Kai Lin" player="false" ac="17" fort="12" reflex="13" will="14" hp="29" init="3" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Kai lins are mobile, reptilian -looking plants that feed on carrion , but they hunt living prey when they can't find anything dead. Their " tails" are actually long root clusters that they entwine in dead flesh to absorb sustenance, and they pack a nasty electrical jolt. Kai lins are about as intelligent as porpoises or chimps and can be trained as guardians or attack creatures.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Scarlet Kai Lin" player="false" ac="16" fort="14" reflex="16" will="15" hp="32" init="5" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Kai lins are mobile, reptilian -looking plants that feed on carrion , but they hunt living prey when they can't find anything dead. Their " tails" are actually long root clusters that they entwine in dead flesh to absorb sustenance, and they pack a nasty electrical jolt. Kai lins are about as intelligent as porpoises or chimps and can be trained as guardians or attack creatures.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Menarl Slime Spriter" player="false" ac="18" fort="15" reflex="16" will="17" hp="54" init="4" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Wanderers tell of menarl colonies that ruthlessly hunt and cannibalize other intelligent creatures. Menarls deny such accusations, at least until the accuser is alone and within easy reach. They can exude great quantities of sticky mucus to encase and immobilize prey.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Menarl Slime Fang" player="false" ac="22" fort="19" reflex="17" will="16" hp="70" init="7" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Wanderers tell of menarl colonies that ruthlessly hunt and cannibalize other intelligent creatures. Menarls deny such accusations, at least until the accuser is alone and within easy reach. They can exude great quantities of sticky mucus to encase and immobilize prey.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Obb Scout" player="false" ac="16" fort="14" reflex="16" will="15" hp="38" init="6" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>These bizarre fungus creatures are greatly feared by most Gamma Terrans. They are cunning pack hunters that often lair in radioactive ruins. Each has a single dark eye, from which some emit blasts of blinding radiation . Specialized obbs grapple their victims with vicious claws and implant them with radioactive spores. When a spore bursts, slaying its host, a new obb springs from the corpse.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Orlen Pistoleer" player="false" ac="16" fort="18" reflex="16" will="17" hp="132" init="3" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Orlens' giant humanoid frames make them dangerous enemies, but with too many heads and arms, their existence can be a trial. The heads rarely get along with each other, so negotiating with an orlen isn 't easy-one of the heads is almost certain to take exception no mailer what the topic.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Parn" player="false" ac="17" fort="17" reflex="14" will="15" hp="156" init="4" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Armed with a natural arsenal of quill s, spines, and swordlike antennae of sharp chitin, parns fear nothing. The voracious beetles are strong swimmers and often hide just ben eath the surface of ponds or sluggish rivers, with only a small portion of their heads and eyes above water to watch for prey. Parns are resistant to mental attack, redirecting psychic energy against other creatures nearby. They sometimes team up with creatures that promise them opportunities to indulge their cruelty and bloodlust.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Porker Marauder" player="false" ac="17" fort="16" reflex="13" will="12" hp="29" init="2" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Roaming the wastes of Gamma Terra are gangs of greedy, callous marauders: Porkers are a race of intelligent, mutated pigs. They love Ancient technology, especially firearms and internal combustion engin es-the bigger and louder, the better. They have a knack for jury-rigging and sa lvage, so a porker gang can keep a handful of Ancient motorcycles and fuel stills in working order.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Porker Warhog" player="false" ac="16" fort="18" reflex="17" will="15" hp="65" init="2" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Roaming the wastes of Gamma Terra are gangs of greedy, callous marauders: Porkers are a race of intelligent, mutated pigs. They love Ancient technology, especially firearms and internal combustion engin es-the bigger and louder, the better. They have a knack for jury-rigging and sa lvage, so a porker gang can keep a handful of Ancient motorcycles and fuel stills in working order.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Shieldbot" player="false" ac="14" fort="13" reflex="14" will="11" hp="1" init="3" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Many of these security machines still defend Ancient installations, but some now wander the wastes. Although not as deranged as berserk androids or as powerfully armed as Eradicators, guardbots are still efficient killers of organic threats. They pack a nasty electrical punch backed up by improved targeting software.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Sentrybot" player="false" ac="20" fort="17" reflex="18" will="16" hp="64" init="7" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Many of these security machines still defend Ancient installations, but some now wander the wastes. Although not as deranged as berserk androids or as powerfully armed as Eradicators, guardbots are still efficient killers of organic threats. They pack a nasty electrical punch backed up by improved targeting software.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Eradicator Mk3" player="false" ac="24" fort="22" reflex="22" will="23" hp="400" init="9" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Eradicator-class robots are powerful war machines designed to defend crucial installations and provide battlefield security. They're fitted with an impressive arsenals of lasers, grenades, and other implements of mayhem. Many have accumulated serious programming errors and logic-processor damage over the yea rs , making th em unpredictable at best; approach with care.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Sep Thresher" player="false" ac="17" fort="16" reflex="18" will="16" hp="75" init="6" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>These mutated sharks are perfectly adapted to subterranean "swimming." A hungry sep doesn't give away its presence by allowing its dorsal fin to break the surface-it comes up directly beneath its prey.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Serf Dragoon" player="false" ac="20" fort="16" reflex="18" will="18" hp="61" init="3" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Serfs are domineering, power-hungry humanoids that seek to subjugate weaker creatures. They have poisonous claws, which they use to envenom their weapons, and they boast a formidable array of mental powers. Serfs adopt military ranks and trappings and form clans, surrounded by loyal minions such as badders, hoops, and porkers. No serf is ever truly happy until it has a stronghold of its own.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Sleeth Mindwarden" player="false" ac="15" fort="12" reflex="12" will="15" hp="29" init="0" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>The reptilian sleeths are a peaceful race, at least among themselves. They are renowned as precognitive wonders and scholars of the Ancients, and they are especially knowledgeable about Area 52 tech. Unfortunately for would-be seekers of wisdom, sleeths' lizard brains are wired for xenophobianothing riles up a community of seer lizards more than nonreptilian visitors.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Sleeth Guardian" player="false" ac="18" fort="14" reflex="15" will="13" hp="37" init="0" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>The reptilian sleeths are a peaceful race, at least among themselves. They are renowned as precognitive wonders and scholars of the Ancients, and they are especially knowledgeable about Area 52 tech. Unfortunately for would-be seekers of wisdom, sleeths' lizard brains are wired for xenophobianothing riles up a community of seer lizards more than nonreptilian visitors.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Soul Besh Guardskeeter" player="false" ac="19" fort="13" reflex="15" will="12" hp="35" init="6" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Soul beshes are flightless, mutant mosquitoes the size of small dogs. They creep up to travelers' camps and stick their proboscises into sleeping victims, paralyzing them with an anesthetizing venom while draining them dry. Guardskeeters can be trained as watch-bugs, but they're dangerous when hungry and not very attentive when digesting a meal.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Soul Besh Bloodsucker" player="false" ac="17" fort="15" reflex="16" will="14" hp="38" init="9" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Soul beshes are flightless, mutant mosquitoes the size of small dogs. They creep up to travelers' camps and stick their proboscises into sleeping victims, paralyzing them with an anesthetizing venom while draining them dry. Guardskeeters can be trained as watch-bugs, but they're dangerous when hungry and not very attentive when digesting a meal.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Terl Skyslayer" player="false" ac="18" fort="15" reflex="17" will="15" hp="54" init="8" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>Schools of 6-foot-long, flying, fanged fish are a common sight in dilapidated Ancient cities. These exceptionally dangerous predators flit through the canopy of leaning skyscrapers in pursuit of prey. Terls spend a portion of their life cycle spawning in the ocean before they return to their lairs along high building tops.</Note>
+    </MonsterEntry>
+    <MonsterEntry sync="true" Name="Yexil Mauler" player="false" ac="15" fort="17" reflex="14" will="15" hp="88" init="3" hitMod="0" acMod="0" ongoing="0" states="0">
+      <Note>These dangerous flying predators resemble orange-furred lions with bat wings in place of forelimbs. Armed with fierce mandibles and the ability to fire blasts of laser energy from their eyes, they are notorious marauders and robbers. Yexils form small nests of two or three individuals. They lie in wait in vantage points overlooking roads and trails, waylaying any who pass by. They generally rob and then devour their victims, but they might trade with those who are well armed. They especially prize cloth , fabric, or other garments, which they find delicious.</Note>
+    </MonsterEntry>
+  </monsters>
+</DMToolData>
