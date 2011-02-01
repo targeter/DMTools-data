@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DMToolData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<!-- The Tuesday Party! -->
+	<monsters>
+		<MonsterEntry sync="true" Name="Mindy" player="true" ac="16" fort="11" reflex="13" will="20" hp="22" init="-2" hitMod="0" acMod="0" ongoing="0" states="0">
+			<Note>Mind Coercer Mind Breaker</Note>
+		</MonsterEntry>
+		<MonsterEntry sync="true" Name="Chewy" player="true" ac="18" fort="15" reflex="16" will="13" hp="22" init="4" hitMod="0" acMod="0" ongoing="0" states="0">
+			<Note>Yeti Felinoid</Note>
+		</MonsterEntry>
+		<MonsterEntry sync="true" Name="Sam Sam" player="true" ac="18" fort="10" reflex="19" will="14" hp="20" init="7" hitMod="0" acMod="0" ongoing="0" states="0">
+			<Note>Doppelganger Hypercognitive</Note>
+		</MonsterEntry>
+		<MonsterEntry sync="true" Name="UT-0" player="true" ac="14" fort="13" reflex="16" will="15" hp="19" init="11" hitMod="0" acMod="0" ongoing="0" states="0">
+			<Note>Hypercognitive Android</Note>
+		</MonsterEntry>
+	</monsters>
+</DMToolData>
