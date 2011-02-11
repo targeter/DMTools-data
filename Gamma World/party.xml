@@ -8,8 +8,8 @@
 		<MonsterEntry sync="true" Name="Chewy" player="true" ac="18" fort="15" reflex="16" will="13" hp="22" init="4" hitMod="0" acMod="0" ongoing="0" states="0">
 			<Note>Yeti Felinoid</Note>
 		</MonsterEntry>
-		<MonsterEntry sync="true" Name="Sam Sam" player="true" ac="18" fort="10" reflex="19" will="14" hp="20" init="7" hitMod="0" acMod="0" ongoing="0" states="0">
-			<Note>Doppelganger Hypercognitive</Note>
+		<MonsterEntry sync="true" Name="Krch" player="true" ac="18" fort="14" reflex="16" will="15" hp="28" init="0" hitMod="0" acMod="0" ongoing="0" states="0">
+			<Note>Electrokinetic Cockroach</Note>
 		</MonsterEntry>
 		<MonsterEntry sync="true" Name="UT-0" player="true" ac="14" fort="13" reflex="16" will="15" hp="19" init="11" hitMod="0" acMod="0" ongoing="0" states="0">
 			<Note>Hypercognitive Android</Note>
