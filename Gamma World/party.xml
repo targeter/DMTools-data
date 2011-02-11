@@ -11,8 +11,8 @@
 		<MonsterEntry sync="true" Name="Kaiter" player="true" ac="15" fort="15" reflex="16" will="12" hp="22" init="-1" hitMod="0" acMod="0" ongoing="0" states="0">
 			<Note>Yeti Doppelganger</Note>
 		</MonsterEntry>
-		<MonsterEntry sync="true" Name="Okkah" player="true" ac="14" fort="17" reflex="14" will="14" hp="30" init="4" hitMod="0" acMod="0" ongoing="0" states="0">
-			<Note>Plant Pyrokinetic</Note>
+		<MonsterEntry sync="true" Name="Alca" player="true" ac="7" fort="14" reflex="14" will="15" hp="28" init="2" hitMod="0" acMod="0" ongoing="0" states="0">
+			<Note>Empath Gravity Controller</Note>
 		</MonsterEntry>
 		<MonsterEntry sync="true" Name="UT-0" player="true" ac="14" fort="13" reflex="16" will="15" hp="19" init="11" hitMod="0" acMod="0" ongoing="0" states="0">
 			<Note>Hypercognitive Android</Note>
